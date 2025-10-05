@@ -60,7 +60,9 @@ cd project
    
    i. Copy the **Client ID** (you'll need this in step 4)
 
-3. **Install Backend Dependencies**
+   * Also we have the github,facebook authentication.
+
+4. **Install Backend Dependencies**
 ```bash
 cd backend
 pip install -r requirements.txt
