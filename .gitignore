@@ -17,6 +17,43 @@
 
 # Angular CLI and build artefacts
 /.angular-cli.json
+
+
+
+
+# Node/Vite outputs
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.DS_Store
+
+# Python virtual environments & caches
+backend/venv/
+venv/
+.env/
+*.pyc
+__pycache__/
+.backend_env/
+
+# Environment secrets
+backend/.env
+frontend/.env
+*.env.local
+
+# Logs & uploads
+*.log
+backend/uploads/
+*.vcd
+
+# IDE & OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Coverage/tests
+coverage/
+pytest_cache/
 /.ng/
 
 # TypeScript cache
