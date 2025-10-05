@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+
+
+
+
+# Findings
+- **[README.md](cci:7://file:///e:/project/README.md:0:0-0:0)**: Located at project root [README.md](cci:7://file:///e:/project/README.md:0:0-0:0). Full contents below.
+
+```markdown
+>>>>>>> dbeb7303d1a195842f36421c0215c764d016576a
 # AI-powered VLSI Design Assistant 🔬
 
 An intelligent educational platform designed for Electronics and Communication Engineering students to master VLSI design and Verilog coding with AI-powered assistance.
@@ -52,7 +63,13 @@ cd project
    
    i. Copy the **Client ID** (you'll need this in step 4)
 
+<<<<<<< HEAD
 3. **Install Backend Dependencies**
+=======
+   * Also we have the github,facebook authentication.
+
+4. **Install Backend Dependencies**
+>>>>>>> dbeb7303d1a195842f36421c0215c764d016576a
 ```bash
 cd backend
 pip install -r requirements.txt
@@ -189,3 +206,10 @@ MIT License - See LICENSE file for details
 ## 🙏 Acknowledgments
 
 Built by Hack Nova team to empower the next generation of chip designers.
+<<<<<<< HEAD
+=======
+```
+
+# Status
+- ✅ Provided the contents of [README.md](cci:7://file:///e:/project/README.md:0:0-0:0).
+>>>>>>> dbeb7303d1a195842f36421c0215c764d016576a
